@@ -19,12 +19,6 @@ The purpose of this project is to practice:
 
 ---
 
-## 🚀 Live Demo
-
-🔗 Add your deployed link here  
-```
-https://your-live-link.com
-```
 
 ---
 

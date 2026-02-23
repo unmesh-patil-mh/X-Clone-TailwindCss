@@ -17,8 +17,6 @@ The purpose of this project is to practice:
 - Component-based UI building
 - Modern frontend workflow
 
----
-
 
 ---
 
@@ -78,9 +76,6 @@ Unlike traditional CSS frameworks like Bootstrap that provide pre-designed compo
 twitter-clone/
 │
 ├── index.html
-├── assets/
-│   ├── images/
-│   └── icons/
 ├── input.css (if using Tailwind CLI)
 ├── output.css
 ├── tailwind.config.js
@@ -207,17 +202,6 @@ After completing this project, you will understand:
 - Mobile-first design approach
 - Responsive design using breakpoints
 - Clean project structuring
-
----
-
-# 📸 Screenshots
-
-(Add your screenshots inside an assets/images folder)
-
-```markdown
-![Desktop View](assets/images/desktop.png)
-![Mobile View](assets/images/mobile.png)
-```
 
 ---
 

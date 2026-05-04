@@ -1,4 +1,4 @@
-# 🐦 Twitter Clone (Static UI) – Built with Tailwind CSS
+# 🐦 Twitter Clone (Static UI) – Built with Tailwind CSS Just Design
 
 A fully responsive **Twitter (X) UI Clone** built using **Tailwind CSS**.  
 This project recreates the modern Twitter homepage/feed interface using utility-first styling without writing custom CSS.
